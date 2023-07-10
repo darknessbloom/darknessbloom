@@ -1,4 +1,4 @@
-- 👋 Hi, I’m darknessbloom
+- 👋 Hi,
 - 👀 I’m interested in develop
 - 🌱 I’m currently learning clang, python.
 - 💞️ I’m looking to collaborate on ...
