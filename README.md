@@ -7,7 +7,7 @@
 
 <span>💻 현재 공부중인 웹개발 & 백엔드 주니어 개발자입니다.</span>
 	
-### <div><a href="https://joy0987.notion.site/f23627a5caa04cbdbd476a58c8901dbd">Portfolio</a></div>
+### <div><a href="#">Portfolio</a></div>
 
 <span>👆 click!</span>
 
